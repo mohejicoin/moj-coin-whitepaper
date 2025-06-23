@@ -10,10 +10,12 @@ Moheji (MOJ) Token Whitepaper
 Table of Contents
 1. Introduction
 2. What is Moheji?
-3. Project Overview and Purpose 4. Token Details
+3. Project Overview and Purpose 
+4. Token Details
 5. Use Cases
 6. Technology and Security
-7. Community and Governance 8. Roadmap
+7. Community and Governance 
+8. Roadmap
 9. Team and Partnerships
 10. Disclaimer
 
