@@ -1,7 +1,9 @@
 mohejicoin: A Peer-to-Peer Electronic Cash System
 
 henoheno moheji
+
 mohejicoin@gmail.com
+
 https://1link.jp/moheji
 
 Moheji (MOJ) Token Whitepaper
