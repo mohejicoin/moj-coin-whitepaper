@@ -8,22 +8,21 @@ https://1link.jp/moheji
 
 Moheji (MOJ) Token Whitepaper
 Table of Contents
-1. Introduction
-2. What is Moheji?
-3. Project Overview and Purpose 
-4. Token Details
-5. Use Cases
-6. Technology and Security
-7. Community and Governance 
-8. Roadmap
-9. Team and Partnerships
-10. Disclaimer
+1 Introduction
+2 What is Moheji?
+3 Project Overview and Purpose 
+4 Token Details
+5 Use Cases
+6 Technology and Security
+7 Community and Governance 
+8 Roadmap
+9 Team and Partnerships
+10 Disclaimer
 
-1.Introduction
+1. Introduction
 Moheji (MOJ) is a community-driven and culturally inspired digital token
 developed on the Solana blockchain. It is designed to integrate Japan’s
-rich cultural heritage with the forefront of decentralized,
-blockchainbased technology. By issuing a token with a fixed total supply, Moheji
+rich cultural heritage with the forefront of decentralized, blockchainbased technology. By issuing a token with a fixed total supply, Moheji
 creates an experimental platform to explore new models of social token
 economies that promote meaningful user participation, creativity, and
 decentralized collaboration.
@@ -35,14 +34,12 @@ practical digital asset. This dual nature makes Moheji an innovative
 bridge between traditional cultural motifs and the emerging world of Web3
 technologies.
 Our mission is to foster a vibrant, fair, and open ecosystem where users
-worldwide can participate, co-create,
-and experiment with blockchainpowered cultural and social innovations.
-By combining art, culture, and
+worldwide can participate, co-create, and experiment with blockchainpowered cultural and social innovations. By combining art, culture, and
 technology, Moheji invites people to explore novel ways of interacting
 and expressing themselves in the decentralized digital age, ultimately
 inspiring freedom, joy, and community empowerment.
 
-3. What is Moheji?
+2. What is Moheji?
 The Moheji (MOJ) token draws its inspiration from a culturally
 significant design composed of Japanese hiragana characters arranged in a
 specific pattern to create a whimsical and well-loved face symbolizing
@@ -60,7 +57,7 @@ allows Moheji to carve out a unique and sustainable niche in the highly
 competitive and crowded Web3 landscape, where culture and innovation can
 harmoniously coexist and enrich one another.
 
-4. Project Overview and Purpose
+3. Project Overview and Purpose
 Moheji is conceived as a community-oriented utility token built on the
 high-speed, low-cost Solana blockchain. The project’s primary aim is to
 leverage blockchain technology to enrich everyday social and cultural
@@ -86,7 +83,7 @@ approach encourages a sustainable ecosystem where culture and blockchain
 technology support and amplify each other, fostering innovation and
 engagement on multiple fronts.
 
-5. Token Details
+4. Token Details
 - Token Name: Moheji - Symbol: MOJ
 - Decimals: 6
 - Total Supply: 1,000,000,000 (One Billion) tokens
@@ -111,8 +108,7 @@ holder distributions at any time.
 5. Use Cases
 Moheji is designed to fulfill a broad spectrum of practical, social, and
 cultural functions within the decentralized ecosystem:
-- Community Engagement and Social Tokens: Moheji fosters vibrant,
-- selfsustaining communities by enabling social rewards, voting rights,
+- Community Engagement and Social Tokens: Moheji fosters vibrant, selfsustaining communities by enabling social rewards, voting rights,
 participation incentives, and
 reputation systems. This facilitates enhanced user interaction and
 empowers decentralized governance structures.
