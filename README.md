@@ -64,10 +64,10 @@ Under the following terms:
 
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Full license text:
+https://creativecommons.org/licenses/by/4.0/legalcode
 
 Contact
 Email: mohejicoin@gmail.com
 Website: https://mohejicoin.github.io/moheji-landing-page/
-
 
