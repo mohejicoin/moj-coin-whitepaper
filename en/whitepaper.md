@@ -19,7 +19,7 @@ Table of Contents
 9. Team and Partnerships
 10. Disclaimer
 
- Introduction
+1.Introduction
 Moheji (MOJ) is a community-driven and culturally inspired digital token
 developed on the Solana blockchain. It is designed to integrate Japan’s
 rich cultural heritage with the forefront of decentralized,
