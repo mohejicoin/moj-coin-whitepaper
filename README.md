@@ -27,21 +27,18 @@ Disclaimer
 
 Language Versions
 
-Language Versions
-Language	Coverage Area
-English	Global (North America, Europe, Asia, Africa, Oceania)
-Chinese (Simplified)	Mainland China, Singapore, Malaysia
-Japanese	Japan
-Spanish	Latin America, Spain
-Portuguese	Brazil
-Korean	South Korea
-Russian	Russia, Central Asia
-French	West Africa, France, parts of Canada
-Arabic	Middle East, North Africa
-Icelandic	Iceland
-
-👉 Please find the respective whitepapers in the /en, /zh-CN, /ja, /es, /pt, /ko, /ru, /fr, /ar folders.
-📝 Note: Language-specific folders are currently under preparation.
+| Language             | Coverage Area                                         |
+| -------------------- | ----------------------------------------------------- |
+| English              | Global (North America, Europe, Asia, Africa, Oceania) |
+| Chinese (Simplified) | Mainland China, Singapore, Malaysia                   |
+| Japanese             | Japan                                                 |
+| Spanish              | Latin America, Spain                                  |
+| Portuguese           | Brazil                                                |
+| Korean               | South Korea                                           |
+| Russian              | Russia, Central Asia                                  |
+| French               | West Africa, France, parts of Canada                  |
+| Arabic               | Middle East, North Africa                             |
+| Icelandic            | Iceland                                               |
 
 👉 Or visit our link hub: https://1link.jp/moheji
 
