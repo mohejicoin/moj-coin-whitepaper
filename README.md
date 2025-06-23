@@ -40,6 +40,8 @@ Language Versions
 | Arabic               | Middle East, North Africa                             |
 | Icelandic            | Iceland                                               |
 
+We are currently adding more.
+
 👉 Or visit our link hub: https://1link.jp/moheji
 
 Contribution
