@@ -5,7 +5,6 @@ Welcome to the official repository of the Moheji (MOJ) token whitepaper, a commu
 👉 https://1link.jp/moheji
 
 Table of Contents
-
 Introduction
 
 What is Moheji?
@@ -28,6 +27,7 @@ Disclaimer
 
 Language Versions
 
+Language Versions
 Language	Coverage Area
 English	Global (North America, Europe, Asia, Africa, Oceania)
 Chinese (Simplified)	Mainland China, Singapore, Malaysia
@@ -40,7 +40,7 @@ French	West Africa, France, parts of Canada
 Arabic	Middle East, North Africa
 Icelandic	Iceland
 
-👉 Please find the respective whitepapers in the /en, /zh-CN, /ja, /es, /pt, /ko, /ru, /fr, /ar, /is folders.
+👉 Please find the respective whitepapers in the /en, /zh-CN, /ja, /es, /pt, /ko, /ru, /fr, /ar folders.
 📝 Note: Language-specific folders are currently under preparation.
 
 👉 Or visit our link hub: https://1link.jp/moheji
@@ -63,8 +63,11 @@ Adapt — remix, transform, and build upon the material for any purpose, even co
 Under the following terms:
 
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
 Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Contact
 Email: mohejicoin@gmail.com
 Website: https://mohejicoin.github.io/moheji-landing-page/
+
+
