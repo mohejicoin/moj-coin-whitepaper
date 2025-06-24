@@ -27,18 +27,19 @@ Disclaimer
 
 Language Versions
 
-| Language             | Coverage Area                                         |
-| -------------------- | ----------------------------------------------------- |
-| English              | Global (North America, Europe, Asia, Africa, Oceania) |
-| Chinese (Simplified) | Mainland China, Singapore, Malaysia                   |
-| Japanese             | Japan                                                 |
-| Spanish              | Latin America, Spain                                  |
-| Portuguese           | Brazil                                                |
-| Korean               | South Korea                                           |
-| Russian              | Russia, Central Asia                                  |
-| French               | West Africa, France, parts of Canada                  |
-| Arabic               | Middle East, North Africa                             |
-| Icelandic            | Iceland                                               |
+| Language              | Coverage Area                                      |
+|-----------------------|---------------------------------------------------|
+| English               | Global (North America, Europe, Asia, Africa, Oceania) |
+| Chinese (Simplified)  　| Mainland China, Singapore, Malaysia               |
+| Japanese              | Japan                                             |
+| Spanish               | Latin America, Spain                              |
+| Portuguese            | Brazil                                            |
+| Korean                | South Korea                                       |
+| Russian               | Russia, Central Asia                              |
+| French                | West Africa, France, parts of Canada              |
+| Arabic                | Middle East, North Africa                         |
+| Icelandic             | Iceland                                           |
+| Aymara                | Bolivia, Peru, Northern Chile                     |
 
 We are currently adding more.
 
