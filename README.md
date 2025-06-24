@@ -41,7 +41,7 @@ Language Versions
 | Icelandic             | Iceland                                           |
 | Aymara                | Bolivia, Peru, Northern Chile                     |
 | Irish                 | Ireland                                           |
-| Avar                  | Dagestan, Russia                                  |
+| Azerbaijani           | Azerbaijan                                        |
 
 We are currently adding more.
 
