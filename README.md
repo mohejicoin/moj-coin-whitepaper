@@ -25,7 +25,7 @@ Team and Partnerships
 
 Disclaimer
 
- Language Versions
+Language Versions
 
 | Language              | Coverage Area                                      |
 |-----------------------|---------------------------------------------------|
@@ -41,6 +41,7 @@ Disclaimer
 | Icelandic             | Iceland                                           |
 | Aymara                | Bolivia, Peru, Northern Chile                     |
 | Irish                 | Ireland                                           |
+| Avar                  | Dagestan, Russia                                  |
 
 We are currently adding more.
 
