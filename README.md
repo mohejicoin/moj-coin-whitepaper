@@ -25,12 +25,12 @@ Team and Partnerships
 
 Disclaimer
 
-Language Versions
+ Language Versions
 
 | Language              | Coverage Area                                      |
 |-----------------------|---------------------------------------------------|
 | English               | Global (North America, Europe, Asia, Africa, Oceania) |
-| Chinese (Simplified)  　| Mainland China, Singapore, Malaysia               |
+| Chinese (Simplified)   | Mainland China, Singapore, Malaysia               |
 | Japanese              | Japan                                             |
 | Spanish               | Latin America, Spain                              |
 | Portuguese            | Brazil                                            |
@@ -40,6 +40,7 @@ Language Versions
 | Arabic                | Middle East, North Africa                         |
 | Icelandic             | Iceland                                           |
 | Aymara                | Bolivia, Peru, Northern Chile                     |
+| Irish                 | Ireland                                           |
 
 We are currently adding more.
 
