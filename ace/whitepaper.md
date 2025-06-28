@@ -58,3 +58,6 @@ Tim ngon Kemitraan Proyek Moheji geupimpin le tim nyang meuragam dari pengembang
 
 Peunyataan Moheji (MOJ) nakeuh saboh token komunitas nyang geupeuteubiet keu tujuan budaya, sosial, ngon utilitas bak blockchain Solana. Nyan kon saboh jaminan keuangan, investasi, atawa instrumen spekulatif. Hana jaminan keuntongan, dan ureueng ngui haroih beuhati-hati dan geupeugot penelitian droe sigohlom geumeugabong ngon token nyan. Teknologi blockchain ji me resiko nyang meulekat termasok perubahan peraturan, kerentanan teknis, ngon volatilitas pasai. Tim Moheji hana tanggong jaweub ateuh kerugian nyang teuka lewat peumilek token atawa partisipasi lam ekosistem. Peuseurta diyue untuk terlibat deungon tanggong jaweub, menghargai prinsip-prinsip masyarakat, dan berkontribusi keu ekosistem desentralisasi nyang adil dan berkelanjutan.
 
+
+
+
