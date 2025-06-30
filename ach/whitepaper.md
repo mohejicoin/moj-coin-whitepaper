@@ -59,3 +59,4 @@ Dul ki wiinye Yub me Moheji ni ki telo ki dul dano ma pat pat ma gi yubu blockch
 
 Lagam Moheji (MOJ) obedo gin ma ki miiyo pi lok ma mako tekwaro, bedo kacel, ki tic ma mako Solana blockchain. En pe obedo gin ma gwoko cente, keto cente, onyo gin ma ki tiyo kwede me byeko jami. Pe tye gin mo ma nyutu ni ibi nongo magoba, ki lutic omyera gubed ki neno maber ki gu tim kwed gi kengi ma pwod gu tiyo ki gin ma ki lwongo ni token ni. Teknoloji me Blockchain tye ki peko ma tye iye alokaloka i cik, goro me tic, ki alokaloka me cato wil. Dul pa Moheji pe gi tye ki twero mo keken pi rweny ma bino pi bedo ki token onyo nywako i yub me kwo. Dano ma tye i yub man ki cuku cwiny gi me bedo i yub ma opore, keto deyo i kom cik me kabedo, ki miyo kony me kelo yub maber ki ma rii.
 
+
