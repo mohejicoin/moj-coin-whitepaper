@@ -98,9 +98,9 @@ engagement on multiple fronts.
 4. Token Details
 - Token Name: Moheji - Symbol: MOJ
 - Decimals: 6
-- Total Supply: 1,000,000,000 (One Billion) tokens
+- Total Supply: 11111111 tokens
 - Blockchain: Solana
-- Contract Address: HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump
+- Contract Address: DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk
 From the outset, the entire supply of Moheji tokens was minted and fully
 released to the community, with no tokens withheld for founders,
 advisors, or private investors. This approach underscores Moheji’s
