@@ -31,7 +31,7 @@ Contribution We welcome contributions, corrections, and new language translation
 
 License Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-© 2025 Moheji Token
+© Moheji Token
 
 You are free to:
 
