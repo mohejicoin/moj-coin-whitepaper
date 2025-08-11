@@ -96,7 +96,7 @@ technology support and amplify each other, fostering innovation and
 engagement on multiple fronts.
 
 4. Token Details
-- Token Name: Moheji - Symbol: MOJ
+- Token Name: Moheji - Symbol: moj
 - Decimals: 6
 - Total Supply: 11111111 tokens
 - Blockchain: Solana
