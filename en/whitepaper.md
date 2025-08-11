@@ -8,7 +8,7 @@ mohejicoin@gmail.com
 https://1link.jp/moheji
 
 
-Moheji (MOJ) Token Whitepaper
+Moheji (moj) Token Whitepaper
 Table of Contents
 
 1 Introduction
@@ -32,7 +32,7 @@ Table of Contents
 10 Disclaimer
 
 1. Introduction
-Moheji (MOJ) is a community-driven and culturally inspired digital token
+Moheji (moj) is a community-driven and culturally inspired digital token
 developed on the Solana blockchain. It is designed to integrate Japan’s
 rich cultural heritage with the forefront of decentralized, blockchainbased technology. By issuing a token with a fixed total supply, Moheji
 creates an experimental platform to explore new models of social token
@@ -52,7 +52,7 @@ and expressing themselves in the decentralized digital age, ultimately
 inspiring freedom, joy, and community empowerment.
 
 2. What is Moheji?
-The Moheji (MOJ) token draws its inspiration from a culturally
+The Moheji (moj) token draws its inspiration from a culturally
 significant design composed of Japanese hiragana characters arranged in a
 specific pattern to create a whimsical and well-loved face symbolizing
 simplicity, creativity, humor, and playful imagination.
@@ -216,7 +216,7 @@ contributors to continuously enrich the project’s vision and execution,
 fostering an ecosystem of shared knowledge and innovation.
 
 10. Disclaimer
-Moheji (MOJ) is a community token issued for cultural, social, and
+Moheji (moj) is a community token issued for cultural, social, and
 utility purposes on the Solana blockchain. It is not a financial
 security, investment, or speculative instrument. There is no guarantee of
 profit, and users should exercise caution and conduct their own research
