@@ -85,7 +85,7 @@ and educational experiences.
 A core value of the project is transparency and openness. The Moheji
 source code is fully open for public scrutiny, allowing community members
 and developers to audit and contribute. Tokenomics are carefully designed
-to ensure fairness and accessibility, with a fixed supply of 1111111
+to ensure fairness and accessibility, with a fixed supply of 11111111
 tokens and 6 decimal places, striking a balance between scarcity and
 usability.
 Moheji also aims to connect with broader cultural, educational, and
