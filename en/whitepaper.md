@@ -101,7 +101,7 @@ engagement on multiple fronts.
 - Total Supply: 1000000000 tokens
 - Blockchain: Solana
 - Contract Address: HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump
-From the outset, the entire supply of Moheji tokens was minted and fully
+From the outset, the entire supply of moheji tokens was minted and fully
 released to the community, with no tokens withheld for founders,
 advisors, or private investors. This approach underscores Moheji’s
 commitment to decentralization, fairness, and community ownership.
