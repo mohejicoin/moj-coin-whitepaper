@@ -1,5 +1,8 @@
 mohejicoin: A Peer-to-Peer Electronic Cash System
+
+
 chikara ogita
+
 mohejicoin@gmail.com
 
 https://1link.jp/moheji
